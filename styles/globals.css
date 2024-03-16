@@ -2,4 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@import './fonts.css';
+
+/* Add your custom styles here */
  
+@layer base {
+  body {
+    font-family: 'helvetica-neue-roman', sans-serif;
+  }
+  h1 {
+    font-family: 'helvetica-neue-bold-condensed', sans-serif;
+  }
+}

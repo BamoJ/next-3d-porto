@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'helvetica-neue-roman';
+    src: url('../public/fonts/Helvetica-Neue-LT-55-Roman.woff2') format('woff2'),
+}
+ 
+@font-face {
+    font-family: 'helvetica-neue-bold-condensed';
+    src: url('../public/fonts/Helvetica-Neue-LT-77-Bold-Condensed.woff2') format('woff2'),;
+}
+
+@font-face {
+    font-family: 'helvetica-neue-thin';
+    src: url('../public/fonts/Helvetica-Neue-LT-35-Thin.woff2') format('woff2'),;
+}
