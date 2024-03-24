@@ -9,11 +9,6 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      screens: {
-        mobile: "480px",
-        tablet: "768px",
-        desktop: "1024px",
-      },
       fontFamily: {
         helveticaRoman: ["helvetica-neue-roman", "Arial", "sans-serif"],
         helveticaBold: ["helvetica-neue-bold-condensed", "Arial", "sans-serif"],

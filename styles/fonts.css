@@ -2,6 +2,11 @@
     font-family: 'helvetica-neue-roman';
     src: url('../public/fonts/Helvetica-Neue-LT-55-Roman.woff2') format('woff2'),
 }
+
+@font-face {
+    font-family: 'helvetica-neue-bold';
+    src: url('../public/fonts/Helvetica-Neue-LT-75-Bold.woff2') format('woff2'),;
+}
  
 @font-face {
     font-family: 'helvetica-neue-bold-condensed';
